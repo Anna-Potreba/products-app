@@ -1,3 +1,7 @@
+# MVP по созданию новой карточки продукта с использованием react + redux + typescript
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
